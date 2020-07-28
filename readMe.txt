@@ -2,7 +2,7 @@
 woshidasv
 
 
-lslslsThe first time learn git officially.
+slslsThe first time learn git officially.
 Hello world!!
 
 lalalalala
